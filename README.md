@@ -24,7 +24,7 @@ Feel free to contribute 🙏
 
 ## Table of Contents
 
-1. [TODO](/content/todo.md)
+1. [Comparison operators](/content/01-comparison-operators.md)
 
 ## Related
 
