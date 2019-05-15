@@ -27,10 +27,15 @@ Feel free to contribute 🙏
 1. [Comparison operators](/content/01-comparison-operators.md)
 2. [Arithmetic operators](/content/02-arithmetic-operators.md)
    
-
-## Related
-
 ## Contributing
+
+I would really appreciate if you could contribute to this project.
+For example, you can:
+* Suggest a new "topic"
+* Add a new "joke"
+* Add/improve an explanation
+* Share this project
+* Give me a feedback
 
 ### Code of Conduct
 
