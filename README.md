@@ -25,6 +25,8 @@ Feel free to contribute 🙏
 ## Table of Contents
 
 1. [Comparison operators](/content/01-comparison-operators.md)
+2. [Arithmetic operators](/content/02-arithmetic-operators.md)
+   
 
 ## Related
 
