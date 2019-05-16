@@ -20,18 +20,6 @@ TODO: explanation
 
 TODO: explanation
 
-
-## 2. Why [] == ![] but [] == []?
-
-> Example:
-```js
-[] == ![] // true
-[] == [] // false
-```
-
-TODO: explanation
-
-
 ## 3. Does the new String(...) makes any sense?
  
 > Example:
