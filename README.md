@@ -28,10 +28,15 @@ Feel free to contribute 🙏
 2. [Arithmetic operators](/content/02-arithmetic-operators.md)
 3. [Types](/content/03-types.md)
    
-
-## Related
-
 ## Contributing
+
+I would really appreciate if you could contribute to this project.
+For example, you can:
+* Suggest a new "topic"
+* Add a new "joke"
+* Add/improve an explanation
+* Share this project
+* Give me a feedback
 
 ### Code of Conduct
 
