@@ -27,6 +27,8 @@ Feel free to contribute 🙏
 1. [Comparison operators](/content/01-comparison-operators.md)
 2. [Arithmetic operators](/content/02-arithmetic-operators.md)
 3. [Types](/content/03-types.md)
+3. [Arrays](/content/04-arrays.md)
+3. [Logical operators](/content/05-logical-operators.md)
    
 ## Contributing
 

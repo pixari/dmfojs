@@ -35,3 +35,14 @@ new String('foo') == 'foo'; // true
 ```
 
 TODO: explanation
+
+## 4. How does x < y < z / x > y > z works?
+ 
+> Example:
+```js
+1 < 2 < 3; // true
+3 > 2 > 1; // false
+```
+
+TODO: explanation
+

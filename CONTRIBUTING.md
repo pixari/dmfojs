@@ -33,10 +33,9 @@ standard guarded open source project.
 There are a few basic ground-rules for contributors:
 
 1. **No `--force` pushes** or modifying the Git history in any way.
-2. **Non-master branches** should be used for ongoing work.
-3. **Significant modifications** should be subject to a **pull request**
+2. **Significant modifications** should be subject to a **pull request**
    to solicit feedback from other contributors.
-4. **Pull requests** are *encouraged* for all contributions to solicit feedback, but left to
+3. **Pull requests** are *encouraged* for all contributions to solicit feedback, but left to
    the discretion of the contributor.
 
 ### Releases
