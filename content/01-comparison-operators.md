@@ -10,7 +10,7 @@ NaN == NaN; // false
 
 ### Explanation
 
-This behavior is specified by [ECMA-262](http://www.ecma-international.org/ecma-262) in _Abstract Equality Comparison_ and _Abstract Equality Comparison_ sections. In both comparisons, wheter strict (`===`) or not (`==`), if any of the operand is `NaN` the result is `false`. The pseudo code mentionned is as follows :
+This behavior is specified by [ECMA-262](http://www.ecma-international.org/ecma-262) in _Strict Equality Comparison_ and _Abstract Equality Comparison_ sections. In both comparisons, wheter strict (`===`) or not (`==`), if any of the operand is `NaN` the result is `false`. The pseudo code mentionned is as follows :
 
 ```
 1. If Type(x) is different from Type(y), return false.
