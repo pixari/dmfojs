@@ -1,23 +1,35 @@
 {
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "contributors": [
-    {
-      "login": "akhil0001",
-      "name": "Akhil Sai Ram",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/20256099?v=4",
-      "profile": "https://codepen.io/akhil_001/",
-      "contributions": [
-        "doc"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
-  "projectName": "dmfojs",
-  "projectOwner": "pixari",
-  "repoType": "github",
-  "repoHost": "https://github.com"
+   "files":[
+      "README.md"
+   ],
+   "imageSize":100,
+   "commit":false,
+   "contributors":[
+      {
+         "login":"pixari",
+         "name":"Raffaele Pizzari",
+         "avatar_url":"https://avatars0.githubusercontent.com/u/7393475?v=4",
+         "profile":"http://www.raffaelepizzari.com",
+         "contributions":[
+            "code",
+            "doc",
+            "infra",
+            "ideas"
+         ]
+      },
+      {
+        "login": "akhil0001",
+        "name": "Akhil Sai Ram",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/20256099?v=4",
+        "profile": "https://codepen.io/akhil_001/",
+        "contributions": [
+          "doc"
+        ]
+      },
+   ],
+   "contributorsPerLine":7,
+   "projectName":"dmfojs",
+   "projectOwner":"pixari",
+   "repoType":"github",
+   "repoHost":"https://github.com"
 }
