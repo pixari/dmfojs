@@ -8,7 +8,18 @@ NaN === NaN; // false
 NaN == NaN; // false
 ```
 
-TODO: explanation
+### Explanation
+
+This behavior is specified by [ECMA-262](http://www.ecma-international.org/ecma-262) in _Strict Equality Comparison_ and _Abstract Equality Comparison_ sections. In both comparisons, wheter strict (`===`) or not (`==`), if any of the operand is `NaN` the result is `false`. The pseudo code mentionned is as follows :
+
+```
+1. If Type(x) is different from Type(y), return false.
+2. If Type(x) is Number, then
+  1. If x is NaN, return false.
+  2. If y is NaN, return false.
+```
+
+This is inherited from [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754), the IEEE standard for floating-point arithmetic, which states that any operation performed on `NaN` should yield a false value or raise an error.
 
 ## 2. Why [] == ![] but [] == []?
 
