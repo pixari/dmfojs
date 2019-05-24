@@ -59,7 +59,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://www.raffaelepizzari.com"><img src="https://avatars0.githubusercontent.com/u/7393475?v=4" width="100px;" alt="Raffaele Pizzari"/><br /><sub><b>Raffaele Pizzari</b></sub></a><br /><a href="https://github.com/pixari/dmfojs/commits?author=pixari" title="Code">💻</a> <a href="https://github.com/pixari/dmfojs/commits?author=pixari" title="Documentation">📖</a> <a href="#infra-pixari" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#ideas-pixari" title="Ideas, Planning, & Feedback">🤔</a></td></tr></table>
+<table><tr><td align="center"><a href="http://www.raffaelepizzari.com"><img src="https://avatars0.githubusercontent.com/u/7393475?v=4" width="100px;" alt="Raffaele Pizzari"/><br /><sub><b>Raffaele Pizzari</b></sub></a><br /><a href="https://github.com/pixari/dmfojs/commits?author=pixari" title="Code">💻</a> <a href="https://github.com/pixari/dmfojs/commits?author=pixari" title="Documentation">📖</a> <a href="#infra-pixari" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#ideas-pixari" title="Ideas, Planning, & Feedback">🤔</a></td>
+<td align="center"><a href="https://codepen.io/akhil_001/"><img src="https://avatars3.githubusercontent.com/u/20256099?v=4" width="100px;" alt="Akhil Sai Ram"/><br /><sub><b>Akhil Sai Ram</b></sub></a><br /><a href="https://github.com/pixari/dmfojs/commits?author=akhil0001" title="Documentation">📖</a></td>
+</tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
