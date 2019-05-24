@@ -1,5 +1,5 @@
 <h1 align="center">Don't make fun of JavaScript</h1>
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <div align="center">
   <img src="assets/undraw_code_review_l1q9.svg" alt="Dont't make fun of JavaScript" width="400"/>
@@ -58,7 +58,7 @@ All projects and packages in this repository are [MIT licensed](/LICENSE).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://www.raffaelepizzari.com"><img src="https://avatars0.githubusercontent.com/u/7393475?v=4" width="100px;" alt="Raffaele Pizzari"/><br /><sub><b>Raffaele Pizzari</b></sub></a><br /><a href="https://github.com/Raffaele Pizzari/dmfoj/commits?author=pixari" title="Documentation">📖</a></td></tr></table>
+<table><tr><td align="center"><a href="http://www.raffaelepizzari.com"><img src="https://avatars0.githubusercontent.com/u/7393475?v=4" width="100px;" alt="Raffaele Pizzari"/><br /><sub><b>Raffaele Pizzari</b></sub></a><br /><a href="https://github.com/Raffaele Pizzari/dmfoj/commits?author=pixari" title="Documentation">📖</a></td><td align="center"><a href="https://codepen.io/akhil_001/"><img src="https://avatars3.githubusercontent.com/u/20256099?v=4" width="100px;" alt="Akhil Sai Ram"/><br /><sub><b>Akhil Sai Ram</b></sub></a><br /><a href="https://github.com/Raffaele Pizzari/dmfoj/commits?author=akhil0001" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
