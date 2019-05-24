@@ -1,4 +1,5 @@
 <h1 align="center">Don't make fun of JavaScript</h1>
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <div align="center">
   <img src="assets/undraw_code_review_l1q9.svg" alt="Dont't make fun of JavaScript" width="400"/>
   <br>
@@ -51,3 +52,15 @@ Read our [contributing guide](/CONTRIBUTING.md) to learn about how you can contr
 ## License
 
 All projects and packages in this repository are [MIT licensed](/LICENSE).
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="https://twitter.com/joeltankam"><img src="https://avatars0.githubusercontent.com/u/17796723?v=4" width="100px;" alt="Joël Tankam"/><br /><sub><b>Joël Tankam</b></sub></a><br /><a href="https://github.com/pixari/dmfojs/commits?author=joeltankam" title="Documentation">📖</a></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
