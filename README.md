@@ -59,7 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://twitter.com/joeltankam"><img src="https://avatars0.githubusercontent.com/u/17796723?v=4" width="100px;" alt="Joël Tankam"/><br /><sub><b>Joël Tankam</b></sub></a><br /><a href="https://github.com/pixari/dmfojs/commits?author=joeltankam" title="Documentation">📖</a></td></tr></table>
+<table><tr><td align="center"><a href="http://www.raffaelepizzari.com"><img src="https://avatars0.githubusercontent.com/u/7393475?v=4" width="100px;" alt="Raffaele Pizzari"/><br /><sub><b>Raffaele Pizzari</b></sub></a><br /><a href="https://github.com/pixari/dmfojs/commits?author=pixari" title="Code">💻</a> <a href="https://github.com/pixari/dmfojs/commits?author=pixari" title="Documentation">📖</a> <a href="#infra-pixari" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#ideas-pixari" title="Ideas, Planning, & Feedback">🤔</a></td><td align="center"><a href="https://twitter.com/joeltankam"><img src="https://avatars0.githubusercontent.com/u/17796723?v=4" width="100px;" alt="Joël Tankam"/><br /><sub><b>Joël Tankam</b></sub></a><br /><a href="https://github.com/pixari/dmfojs/commits?author=joeltankam" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
