@@ -1,6 +1,4 @@
 <h1 align="center">Don't make fun of JavaScript</h1>
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <div align="center">
   <img src="assets/undraw_code_review_l1q9.svg" alt="Dont't make fun of JavaScript" width="400"/>
   <br>
