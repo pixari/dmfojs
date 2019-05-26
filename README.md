@@ -24,11 +24,11 @@ Feel free to contribute 🙏
 
 ## Table of Contents
 
-1. [Comparison operators](/content/01-comparison-operators.md)
-2. [Arithmetic operators](/content/02-arithmetic-operators.md)
-3. [Types](/content/03-types.md)
-3. [Arrays](/content/04-arrays.md)
-3. [Logical operators](/content/05-logical-operators.md)
+1. [Comparison operators](01-comparison-operators.md)
+2. [Arithmetic operators](02-arithmetic-operators.md)
+3. [Types](03-types.md)
+4. [Arrays](04-arrays.md)
+5. [Logical operators](05-logical-operators.md)
    
 ## Contributing
 
