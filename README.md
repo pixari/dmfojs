@@ -12,6 +12,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/pixari/dmfojs.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/pixari/dmfojs.svg?style=flat-square)
 
+## Read it online (free):
+
+* "Don't make fun of JavaScript" - [GitBook Format](https://book.dmfoj.dev) - https://book.dmfoj.dev
+
 ## What is this?
 JavaScript is a easy to learn and easy to use or at least we can all agree that has a attractive and gradual learning curve.
 In fact, anyone can run its first "Hello World!" script in 1 minute just opening the browser's console and typing "console.log('Hello World!')". 
