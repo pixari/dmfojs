@@ -1,0 +1,6 @@
+root: ./content/
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+  contributing: CONTRIBUTING.md
