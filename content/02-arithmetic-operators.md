@@ -1,7 +1,7 @@
 # Chapter 2 - Arithmetic operators
 
 <div align="center">
-  <img src="assets/undraw_mathematics_4otb.svg" alt="Arithmetic operators" width="400"/>
+  <img src="../assets/undraw_mathematics_4otb.svg" alt="Arithmetic operators" width="400"/>
   <br>
   <p>
     <em>Credits: illustration by <a href="https://undraw.co/">unDraw</a></em>
