@@ -1,5 +1,7 @@
 # Table of Contents
 
+* [Summary](SUMMARY.md)
+  
 ## Content 
 
 * [Comparison operators](/content/01-comparison-operators.md)
@@ -8,7 +10,6 @@
 * [Arrays](/content/04-arrays.md)
 * [Logical operators](/content/05-logical-operators.md)
    
-## Other
-
+## Info
 * [Contributing](CONTRIBUTING.md)
-* [Summary](SUMMARY.md)
+* [Contact](CONTACT.md)
