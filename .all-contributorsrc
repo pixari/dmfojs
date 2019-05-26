@@ -1,6 +1,6 @@
 {
-  "projectName": "dmfoj",
-  "projectOwner": "Raffaele Pizzari",
+  "projectName": "dmfojs",
+  "projectOwner": "pixari",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -33,6 +33,15 @@
       "name": "Joël Tankam",
       "avatar_url": "https://avatars0.githubusercontent.com/u/17796723?v=4",
       "profile": "https://twitter.com/joeltankam",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "afreen23",
+      "name": "Afreen R",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25664409?v=4",
+      "profile": "http://afreenrahman.me",
       "contributions": [
         "doc"
       ]
