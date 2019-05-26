@@ -1,4 +1,12 @@
-# Comparison operators
+# Chapter 1 - Comparison 
+
+<div align="center">
+  <img src="assets/undraw_code_typing_7jnv.svg" alt="Comparison Operators" width="400"/>
+  <br>
+  <p>
+    <em>Credits: illustration by <a href="https://undraw.co/">unDraw</a></em>
+  </p>
+</div>
 
 ## 1. Why NaN isn't equal to NaN?
 

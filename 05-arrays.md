@@ -1,4 +1,12 @@
-# Arrays
+# Chapter 5 - Arrays
+
+<div align="center">
+  <img src="assets/undraw_logistics_x4dc.png" alt="Arrays" width="400"/>
+  <br>
+  <p>
+    <em>Credits: illustration by <a href="https://undraw.co/">unDraw</a></em>
+  </p>
+</div>
 
 ## 1. What's Array(k) really doing?
 

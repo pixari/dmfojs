@@ -1,4 +1,12 @@
-# Types
+# Chapter 3 -Types
+
+<div align="center">
+  <img src="assets/undraw_processing_qj6a.svg" alt="Types" width="400"/>
+  <br>
+  <p>
+    <em>Credits: illustration by <a href="https://undraw.co/">unDraw</a></em>
+  </p>
+</div>
 
 ## 1. Why NaN is a number?
 
