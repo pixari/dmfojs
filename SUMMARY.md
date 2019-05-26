@@ -9,7 +9,10 @@
 * [Types](/content/03-types.md)
 * [Arrays](/content/04-arrays.md)
 * [Logical operators](/content/05-logical-operators.md)
-   
+    
+## Contributors
+* [Thanks to](CONTRIBUTORS.md)
+  
 ## Info
 * [Contributing](CONTRIBUTING.md)
 * [Contact](CONTACT.md)
