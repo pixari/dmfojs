@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "<h1 align=\"center\">Don't make fun of JavaScript</h1> <div align=\"center\">   <img src=\"assets/undraw_code_review_l1q9.svg\" alt=\"Dont't make fun of JavaScript\" width=\"400\"/>   <br>   <p>     <em>Credits: illustration by <a href=\"https://undraw.co/\">unDraw</a></em>   </p> </div>",
   "main": "''",
+  "jest": {
+    "setupTestFrameworkScriptFile": "jest-chain"
+  },
   "scripts": {
     "test": "jest --watch"
   },
@@ -20,6 +23,7 @@
   },
   "homepage": "https://github.com/pixari/dmfojs#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "jest-chain": "^1.1.2"
   }
 }
