@@ -12,12 +12,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/pixari/dmfojs.svg?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/pixari/dmfojs.svg?style=flat-square)
 
-## test by jest
-
-```
-npm i
-npm test
-```
 
 ## Read it online (free):
 
@@ -61,6 +55,14 @@ For example, you can:
 ### Code of Conduct
 
 If have adopted the same Code of Conduct as Facebook that we expect project participants to adhere to. Please read [the full text](https://code.facebook.com/codeofconduct) so that you can understand what actions will and will not be tolerated.
+
+
+## Run tests with Jest
+
+```
+npm install
+npm run test
+```
 
 ### Contributing Guide
 
