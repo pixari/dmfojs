@@ -33,11 +33,21 @@ This is inherited from [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754), the I
 
 > Example:
 ```js
-[] == ![] // true
 [] == [] // false
+[] == ![] // true
+[] === [] // false
+[] === ![] // false
 ```
 
-TODO: explanation
+### Explanation
+
+With Javascript, comparing empty arrays (or any arrays) only returns true when the array is compared to itself. In the first example, two new empty arrays are created and compared. Since both values before and after the equal signs are implicitly declared and not referencing the same object, the comparison returns false.
+
+A different behaviour in Javascript is that an empty array is considered a truthy value, thus converting an empty array to a boolean value returns `true`. In the second example, an empty array is compared to `![]`, which resolves to `false`. For the comparison, the first empty array is converted to its primitive value, which is an empty string (`""`). An empty string is considered a falsy value. The result is that a falsy value is compared to `false`, which returns true.
+
+For the third example, two empty arrays are again implicitly declared and referencing two different arrays. This returns `false` as the references are checked are not equal.
+
+The final example does a strict comparison against an empty array, thus an `Array` type, and `![]`, which once again resolves into `true`. Doing a strict comparison first checks both values' types, which are `Array` and `Boolean` here, and returns `false` if not equal.
 
 ## 3. Does the new String(...) makes any sense?
  
