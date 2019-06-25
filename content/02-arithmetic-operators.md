@@ -32,5 +32,20 @@ var a = 0.1+0.2 //0.300000004
 var b = +(0.1+0.2).toFixed(1);//round off to avoid errorneous value and convert it back to number by using +
 //b = 0.3
 ```
+Alternatively, if you want to compare floating point values, you can use this solution from [Kyle Simpson's "You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch2.md) which uses what is commonly known as "machine epsilon" as a tolerance value.
 
+```javascript
+function numbersCloseEnoughToEqual(n1,n2) {
+	return Math.abs( n1 - n2 ) < Number.EPSILON;
+}
 
+numbersCloseEnoughToEqual( a, b );					// true
+numbersCloseEnoughToEqual( 0.0000001, 0.0000002 );
+```
+
+Polyfill for `Number.EPSILON` pre-ES6:
+```javascript
+if (!Number.EPSILON) {
+	Number.EPSILON = Math.pow(2,-52);
+}
+```
