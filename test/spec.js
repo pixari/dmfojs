@@ -31,6 +31,7 @@ describe(`Chapter 2 - Arithmetic operators`, () => {
     expect(!+[] + [] + ![])
       .toBe((!+[]) + ([]) + (![]))
       .toBe('true' + '' + 'false')
+      .toBe('truefalse')
       .toHaveLength(9);
   });
 });
