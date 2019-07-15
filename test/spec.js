@@ -27,6 +27,13 @@ describe(`Chapter 2 - Arithmetic operators`, () => {
     expect(adding).not.toBe(0.3);
     expect(+adding.toFixed(1)).toBe(0.3);
   });
+  it(`The ! operand converts the operand to the right to a boolean and then reverts it.`, () => {
+    expect(!+[] + [] + ![])
+      .toBe((!+[]) + ([]) + (![]))
+      .toBe('true' + '' + 'false')
+      .toBe('truefalse')
+      .toHaveLength(9);
+  });
 });
 describe(`Chapter 3 -Types`, () => {
   it(`NaN is a number`, () => {
@@ -47,7 +54,7 @@ describe(`Chapter 3 -Types`, () => {
     expect(Number([undefined])).toBe(0);
   });
 });
-describe(`Chapter 4 - operators`, () => {});
+describe(`Chapter 4 - operators`, () => { });
 it(`What is the double negation?`, () => {
   expect(!!true)
     .toBe(!!new Boolean(true))
