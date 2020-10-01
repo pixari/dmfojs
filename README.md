@@ -19,7 +19,7 @@
 
 ## What is this?
 
-JavaScript is a easy to learn and easy to use or at least we can all agree that has a attractive and gradual learning curve.
+JavaScript is a easy language to learn and easy to use or at least we can all agree that has a attractive and gradual learning curve.
 In fact, anyone can run its first "Hello World!" script in 1 minute just opening the browser's console and typing "console.log('Hello World!')".
 
 This is one of the (many) reasons why it is one of the most widely used programming language supported by an extremely large community.
@@ -82,4 +82,4 @@ Thanks goes to these people ([emoji key](https://allcontributors.org/docs/en/emo
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!Thank You!
